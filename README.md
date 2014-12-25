@@ -1,3 +1,5 @@
+[![NPM version](https://badge.fury.io/js/gsl-cdf.svg)](http://badge.fury.io/js/gsl-cdf)
+
 gsl-cdf-js
 ====================
 
