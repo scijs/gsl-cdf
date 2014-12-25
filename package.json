@@ -1,6 +1,6 @@
 {
   "name": "gsl-cdf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "cumulative distribution functions of  probability distributions forJS via GNU Scientific Library ",
   "main": "cdf.js",
   "scripts": {
