@@ -1,0 +1,25 @@
+{
+  "name": "gsl-cdf",
+  "version": "0.1.0",
+  "description": "cumulative distribution functions of  probability distributions forJS via GNU Scientific Library ",
+  "main": "cdf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GSL-for-JS/gsl-cdf-js.git"
+  },
+  "keywords": [
+    "math",
+    "statistics",
+    "cdf",
+    "probability"
+  ],
+  "author": "Philipp Burckhardt",
+  "license": "GPL-3",
+  "bugs": {
+    "url": "https://github.com/GSL-for-JS/gsl-cdf-js/issues"
+  },
+  "homepage": "https://github.com/GSL-for-JS/gsl-cdf-js"
+}
